@@ -2,11 +2,9 @@
   "name": "TastyBite",
   "version": "1.0.0",
   "description": "This is the online food application",
-  "main": "index.js",
   "scripts": {
-    "test": "Jest",
     "start": "npx parcel index.html",
-    "build": "npx build parcel index.html"
+    "build": "parcel build index.html --public-url ./"
   },
   "keywords": [
     "React",
@@ -33,3 +31,6 @@
     "tailwindcss": "^3.4.7"
   }
 }
+
+
+
