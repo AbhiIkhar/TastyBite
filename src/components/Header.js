@@ -16,7 +16,7 @@ const Header = () => {
           <ul className="flex justify-evenly content-center text-2xl">
             <li>Login</li>
             <li className="list-none px-2">Favourite</li>
-            <li>Cart</li>
+            <li>🛒-CART</li>
           </ul>
         </div>
       </div>
