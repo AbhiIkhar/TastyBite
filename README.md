@@ -1,4 +1,4 @@
-# FashionMart - An online Shopping Application
+# TastyBite - Food On click
 
 ## Low Level Design :
 
@@ -11,8 +11,8 @@ App
       - Name
       - PRICE
       - All things
-- MEN
-- WOMEN
-- KID
-- FAVOURITE
-- CART
+- Offers
+- Filter
+- Cart
+- Favourite
+- Login
